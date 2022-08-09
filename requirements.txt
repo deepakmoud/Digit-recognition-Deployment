@@ -1,76 +1,16 @@
-certifi
+opencv-python
+gunicorn
+itsdangerous
 
-	chardet
+MarkupSafe
+Werkzeug
+numpy
+scipy
 
-	click
+matplotlib
+pandas
 
-	colorama
-
-	cycler
-
-	docopt
-
-	Flask
-
-	idna
-
-	itsdangerous
-
-	Jinja2
-
-	joblib
-
-	gunicorn
-
-	kiwisolver
-
-	MarkupSafe
-
-	matplotlib
-
-	numpy
-
-	pandas
-
-	Pillow
-
-	pipreqs
-
-	pyparsing
-
-	python-dateutil
-
-	pytz
-
-	requests
-
-	scikit-learn
-
-	scipy
-
-	six
-
-	sklearn
-	threadpoolctl
-
-	urllib3
-
-	Werkzeug
-
-	yarg
-
-	opencv-python
-
-	
-
-	
-
-	
-
-	oauthlib
-
-	pyOpenSSL
-
-	keras
-
-	tensorflow-cpu
+keras
+ h5py
+Tensorflow-cpu 
+streamlit
