@@ -6,7 +6,7 @@ MarkupSafe
 Werkzeug
 numpy
 scipy
-
+Tensorflow-cpu 
 matplotlib
 pandas
 
