@@ -12,5 +12,5 @@ pandas
 
 keras
  h5py
-Tensorflow-cpu 
+
 streamlit
