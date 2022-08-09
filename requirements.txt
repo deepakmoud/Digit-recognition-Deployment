@@ -1,7 +1,7 @@
 opencv-python
 gunicorn
 itsdangerous
-
+flask
 MarkupSafe
 Werkzeug
 numpy
