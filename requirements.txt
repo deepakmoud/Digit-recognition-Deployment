@@ -9,7 +9,7 @@ scipy
 Tensorflow-cpu 
 matplotlib
 pandas
-
+opencv-python-headless
 keras
  h5py
 
